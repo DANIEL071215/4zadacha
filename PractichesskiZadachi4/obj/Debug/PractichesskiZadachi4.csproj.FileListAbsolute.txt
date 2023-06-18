@@ -1,0 +1,8 @@
+C:\програма\4Zadacha\PractichesskiZadachi4\obj\Debug\PractichesskiZadachi4.csproj.AssemblyReference.cache
+C:\програма\4Zadacha\PractichesskiZadachi4\obj\Debug\PractichesskiZadachi4.csproj.SuggestedBindingRedirects.cache
+C:\програма\4Zadacha\PractichesskiZadachi4\obj\Debug\PractichesskiZadachi4.csproj.CoreCompileInputs.cache
+C:\програма\4Zadacha\PractichesskiZadachi4\bin\Debug\PractichesskiZadachi4.exe.config
+C:\програма\4Zadacha\PractichesskiZadachi4\bin\Debug\PractichesskiZadachi4.exe
+C:\програма\4Zadacha\PractichesskiZadachi4\bin\Debug\PractichesskiZadachi4.pdb
+C:\програма\4Zadacha\PractichesskiZadachi4\obj\Debug\PractichesskiZadachi4.exe
+C:\програма\4Zadacha\PractichesskiZadachi4\obj\Debug\PractichesskiZadachi4.pdb
